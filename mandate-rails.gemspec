@@ -4,7 +4,7 @@ require_relative "lib/mandate/rails/version"
 
 Gem::Specification.new do |spec|
   spec.name = "mandate-rails"
-  spec.version = Mandate::Rails::VERSION
+  spec.version = MandateRails::VERSION
   spec.authors = ["Jeremy Walker"]
   spec.email = ["jez.walker@gmail.com"]
 
