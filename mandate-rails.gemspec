@@ -1,4 +1,4 @@
-require_relative "lib/mandate_rails/version"
+require_relative "lib/mandate-rails/version"
 
 Gem::Specification.new do |spec|
   spec.name = "mandate-rails"
